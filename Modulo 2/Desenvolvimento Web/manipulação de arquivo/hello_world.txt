@@ -1,0 +1,4 @@
+Hello morld
+Olá mundo
+Programação em python
+Fábrica
