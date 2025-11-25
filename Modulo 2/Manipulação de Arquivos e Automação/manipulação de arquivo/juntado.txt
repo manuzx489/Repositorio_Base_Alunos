@@ -1,0 +1,7 @@
+Estou criando esse arquivo de texto em Python!
+Agora estou apendendo a manipular arquivos
+Maçã
+Banana
+Leite
+Pão
+tomate
